@@ -1,0 +1,35 @@
+{
+  "name": "pget",
+  "version": "0.0.0",
+  "description": "nugget but with a Promise interface.",
+  "license": "MIT",
+  "repository": "egoist/pget",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "nugget": "^1.6.0"
+  },
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "semicolon": false
+  }
+}
