@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "es6-promise": "^3.0.2",
-    "nugget": "^1.6.0"
+    "nugget": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.10.0",
