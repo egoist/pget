@@ -14,7 +14,7 @@ $ npm install --save pget
 const pget = require('pget')
 
 co(function* () {
-  yield pget('http://example.com/154802xtui44qt5imdzm43.png', {verbose: true})
+  yield pget('http://example.com/154802xtui44qt5imdzm43.png')
 })
 /* ⬇️ yield ⬇️
 Downloading 154802xtui44qt5imdzm43.png
