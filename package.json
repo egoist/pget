@@ -1,6 +1,6 @@
 {
   "name": "pget",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "nugget but with a Promise interface.",
   "license": "MIT",
   "repository": "egoist/pget",
